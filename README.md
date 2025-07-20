@@ -1,4 +1,4 @@
-# Foxglove-setup-guide
+# Team Shunya - Foxglove-setup-guide
 ---
 
 # Foxglove Bridge Setup Guide (with Husarnet IPv6 Support)
@@ -53,6 +53,15 @@ Brave and Chrome have been tested and confirmed to work well with Foxglove.
 4. **Enable Content**:
 
    * Click **"Load unsafe scripts"** if prompted in the browser.
+---
+
+![IP_pic](images/Husarnet_ip_pic.png)
+
+
+![insecure_content](images/Insecure_content.png)
+
+
+![Load_Unsafe](images/Load_unsafe_scripts.png)
 
 ---
 
@@ -72,6 +81,12 @@ Brave and Chrome have been tested and confirmed to work well with Foxglove.
 * **Teleop Panel**
   Control robot movement interactively from the browser.
 
+---
+![all_panel](images/All_sensors.png)
+
+---
+
+
 * **3D Panel**
   Visualize:
 
@@ -80,6 +95,13 @@ Brave and Chrome have been tested and confirmed to work well with Foxglove.
   * Joints
   * Point clouds
     *(Toggle visibility for relevant topics)*
+
+  ![all_panel](images/Toggle_visibility.png)
+
+
+  ![all_panel](images/Lidar_visualize.png)
+
+
 
 ---
 
@@ -92,9 +114,13 @@ Brave and Chrome have been tested and confirmed to work well with Foxglove.
 3. Select the relevant topics for each panel.
 4. Arrange the layout as you prefer.
 
+![all_panel](images/Layout.png)
+
+
 ### Exporting the Layout
 
 * Use the **"Export"** option to save the layout as a `.json` file to a chosen location.
+
 
 ### Importing the Layout
 
